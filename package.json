@@ -1,0 +1,15 @@
+{
+  "name": "box-status",
+  "version": "0.0.1",
+  "description": "A way to add realtime status information to Box",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matt Basta <me@mattbasta.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "ws": "^0.7.1"
+  }
+}
